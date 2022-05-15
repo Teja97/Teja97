@@ -19,5 +19,5 @@ c = ["bRAIN", False, 1.3, 4]
 # a.pop(2) # removes element from index 2 which is 22
 # a.remove(21) # removes directly the element like 21
 print(a)
-
+print(c)
 
